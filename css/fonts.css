@@ -1,0 +1,13 @@
+root {
+    /* Font family */
+    --manrope: 'Manrope', sans-serif;
+    /* Font style */
+    --normal: 'normal';
+    /* Font weights */
+    --medium: 500;
+    --bold: 700;
+    /* Line height */
+    --body-large: 1.5rem;
+    --body-medium: 1.25rem;
+    --extra-large: 1.75rem;
+}
